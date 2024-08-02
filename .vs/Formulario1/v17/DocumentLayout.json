@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\MatiasWD\\Coder\\GitConJulio\\practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E6BDC3-7512-49BC-8B25-1A61EB087DC5}|Formulario1\\Formulario1.csproj|w:\\matiaswd\\coder\\gitconjulio\\practicas\\formulario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62E6BDC3-7512-49BC-8B25-1A61EB087DC5}|Formulario1\\Formulario1.csproj|solutionrelative:formulario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E6BDC3-7512-49BC-8B25-1A61EB087DC5}|Formulario1\\Formulario1.csproj|W:\\MatiasWD\\Coder\\GitConJulio\\practicas\\formulario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E6BDC3-7512-49BC-8B25-1A61EB087DC5}|Formulario1\\Formulario1.csproj|solutionrelative:formulario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "W:\\MatiasWD\\Coder\\GitConJulio\\practicas\\Formulario1\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario1\\Form1.cs",
+              "ToolTip": "W:\\MatiasWD\\Coder\\GitConJulio\\practicas\\Formulario1\\Form1.cs",
+              "RelativeToolTip": "Formulario1\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:29:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "W:\\MatiasWD\\Coder\\GitConJulio\\practicas\\Formulario1\\Form1.cs",
+              "RelativeDocumentMoniker": "Formulario1\\Form1.cs",
+              "ToolTip": "W:\\MatiasWD\\Coder\\GitConJulio\\practicas\\Formulario1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:28:03.156Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
