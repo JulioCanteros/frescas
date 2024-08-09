@@ -31,103 +31,98 @@ namespace Formulario1
         {
             this.LApellido = new System.Windows.Forms.Label();
             this.LNombre = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtApellido = new System.Windows.Forms.TextBox();
+            this.txtNombre = new System.Windows.Forms.TextBox();
             this.BGuardar = new System.Windows.Forms.Button();
             this.BEliminar = new System.Windows.Forms.Button();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.BSalir = new System.Windows.Forms.Button();
+            this.txtResultado = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // LApellido
             // 
             this.LApellido.AutoSize = true;
-            this.LApellido.Location = new System.Drawing.Point(89, 138);
+            this.LApellido.Location = new System.Drawing.Point(8, 21);
+            this.LApellido.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LApellido.Name = "LApellido";
-            this.LApellido.Size = new System.Drawing.Size(58, 17);
+            this.LApellido.Size = new System.Drawing.Size(44, 13);
             this.LApellido.TabIndex = 0;
             this.LApellido.Text = "Apellido";
             // 
             // LNombre
             // 
             this.LNombre.AutoSize = true;
-            this.LNombre.Location = new System.Drawing.Point(89, 194);
+            this.LNombre.Location = new System.Drawing.Point(8, 67);
+            this.LNombre.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LNombre.Name = "LNombre";
-            this.LNombre.Size = new System.Drawing.Size(58, 17);
+            this.LNombre.Size = new System.Drawing.Size(44, 13);
             this.LNombre.TabIndex = 1;
             this.LNombre.Text = "Nombre";
             // 
-            // textBox1
+            // txtApellido
             // 
-            this.textBox1.Location = new System.Drawing.Point(217, 140);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(199, 22);
-            this.textBox1.TabIndex = 3;
+            this.txtApellido.Location = new System.Drawing.Point(104, 23);
+            this.txtApellido.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtApellido.Name = "txtApellido";
+            this.txtApellido.Size = new System.Drawing.Size(150, 20);
+            this.txtApellido.TabIndex = 3;
             // 
-            // textBox3
+            // txtNombre
             // 
-            this.textBox3.Location = new System.Drawing.Point(217, 190);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(199, 22);
-            this.textBox3.TabIndex = 5;
+            this.txtNombre.Location = new System.Drawing.Point(104, 63);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(150, 20);
+            this.txtNombre.TabIndex = 5;
             // 
             // BGuardar
             // 
-            this.BGuardar.Location = new System.Drawing.Point(92, 298);
-            this.BGuardar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.BGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BGuardar.Location = new System.Drawing.Point(11, 171);
+            this.BGuardar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.BGuardar.Name = "BGuardar";
-            this.BGuardar.Size = new System.Drawing.Size(75, 23);
+            this.BGuardar.Size = new System.Drawing.Size(79, 45);
             this.BGuardar.TabIndex = 6;
             this.BGuardar.Text = "Guardar";
             this.BGuardar.UseVisualStyleBackColor = true;
+            this.BGuardar.Click += new System.EventHandler(this.BGuardar_Click);
             // 
             // BEliminar
             // 
-            this.BEliminar.Location = new System.Drawing.Point(236, 298);
-            this.BEliminar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.BEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BEliminar.Location = new System.Drawing.Point(175, 171);
+            this.BEliminar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.BEliminar.Name = "BEliminar";
-            this.BEliminar.Size = new System.Drawing.Size(75, 23);
+            this.BEliminar.Size = new System.Drawing.Size(79, 45);
             this.BEliminar.TabIndex = 7;
             this.BEliminar.Text = "Eliminar";
             this.BEliminar.UseVisualStyleBackColor = true;
+            this.BEliminar.Click += new System.EventHandler(this.BEliminar_Click);
             // 
-            // textBox4
+            // txtResultado
             // 
-            this.textBox4.Location = new System.Drawing.Point(479, 84);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox4.Multiline = true;
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(289, 237);
-            this.textBox4.TabIndex = 8;
-            // 
-            // BSalir
-            // 
-            this.BSalir.Location = new System.Drawing.Point(584, 366);
-            this.BSalir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.BSalir.Name = "BSalir";
-            this.BSalir.Size = new System.Drawing.Size(93, 34);
-            this.BSalir.TabIndex = 9;
-            this.BSalir.Text = "SALIR";
-            this.BSalir.UseVisualStyleBackColor = true;
+            this.txtResultado.Location = new System.Drawing.Point(289, 23);
+            this.txtResultado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtResultado.Multiline = true;
+            this.txtResultado.Name = "txtResultado";
+            this.txtResultado.Size = new System.Drawing.Size(184, 193);
+            this.txtResultado.TabIndex = 8;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.BSalir);
-            this.Controls.Add(this.textBox4);
+            this.ClientSize = new System.Drawing.Size(484, 261);
+            this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.BEliminar);
             this.Controls.Add(this.BGuardar);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtNombre);
+            this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.LNombre);
             this.Controls.Add(this.LApellido);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
-            this.Text = "Formulario1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Mi Primer Forms";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,12 +132,11 @@ namespace Formulario1
 
         private System.Windows.Forms.Label LApellido;
         private System.Windows.Forms.Label LNombre;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtApellido;
+        private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Button BGuardar;
         private System.Windows.Forms.Button BEliminar;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.Button BSalir;
+        private System.Windows.Forms.TextBox txtResultado;
     }
 }
 

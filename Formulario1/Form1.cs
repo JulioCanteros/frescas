@@ -17,9 +17,20 @@ namespace Formulario1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
 
+        private void BGuardar_Click(object sender, EventArgs e)
+        {
+            string nombre = txtNombre.Text;
+            string apellido = txtApellido.Text;
+            txtResultado.Text = apellido + " " + nombre;
+
+        }
+
+        private void BEliminar_Click(object sender, EventArgs e)
+        {
+            txtApellido.Clear();
+            txtNombre.Clear();
+            txtResultado.Clear();
         }
     }
 }
