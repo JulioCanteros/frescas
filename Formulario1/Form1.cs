@@ -32,5 +32,18 @@ namespace Formulario1
             txtNombre.Clear();
             txtResultado.Clear();
         }
+
+        private void BSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.Control && e.KeyCode == Keys.S)
+            {
+                BSalir.PerformClick();
+            }
+        }
     }
 }

@@ -36,6 +36,7 @@ namespace Formulario1
             this.BGuardar = new System.Windows.Forms.Button();
             this.BEliminar = new System.Windows.Forms.Button();
             this.txtResultado = new System.Windows.Forms.TextBox();
+            this.BSalir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // LApellido
@@ -61,7 +62,7 @@ namespace Formulario1
             // txtApellido
             // 
             this.txtApellido.Location = new System.Drawing.Point(104, 23);
-            this.txtApellido.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtApellido.Margin = new System.Windows.Forms.Padding(2);
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(150, 20);
             this.txtApellido.TabIndex = 3;
@@ -69,7 +70,7 @@ namespace Formulario1
             // txtNombre
             // 
             this.txtNombre.Location = new System.Drawing.Point(104, 63);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(2);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(150, 20);
             this.txtNombre.TabIndex = 5;
@@ -77,8 +78,8 @@ namespace Formulario1
             // BGuardar
             // 
             this.BGuardar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BGuardar.Location = new System.Drawing.Point(11, 171);
-            this.BGuardar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BGuardar.Location = new System.Drawing.Point(11, 120);
+            this.BGuardar.Margin = new System.Windows.Forms.Padding(2);
             this.BGuardar.Name = "BGuardar";
             this.BGuardar.Size = new System.Drawing.Size(79, 45);
             this.BGuardar.TabIndex = 6;
@@ -89,8 +90,8 @@ namespace Formulario1
             // BEliminar
             // 
             this.BEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BEliminar.Location = new System.Drawing.Point(175, 171);
-            this.BEliminar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.BEliminar.Location = new System.Drawing.Point(175, 120);
+            this.BEliminar.Margin = new System.Windows.Forms.Padding(2);
             this.BEliminar.Name = "BEliminar";
             this.BEliminar.Size = new System.Drawing.Size(79, 45);
             this.BEliminar.TabIndex = 7;
@@ -101,17 +102,30 @@ namespace Formulario1
             // txtResultado
             // 
             this.txtResultado.Location = new System.Drawing.Point(289, 23);
-            this.txtResultado.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtResultado.Margin = new System.Windows.Forms.Padding(2);
             this.txtResultado.Multiline = true;
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.Size = new System.Drawing.Size(184, 193);
             this.txtResultado.TabIndex = 8;
+            // 
+            // BSalir
+            // 
+            this.BSalir.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BSalir.Location = new System.Drawing.Point(40, 186);
+            this.BSalir.Margin = new System.Windows.Forms.Padding(2);
+            this.BSalir.Name = "BSalir";
+            this.BSalir.Size = new System.Drawing.Size(184, 30);
+            this.BSalir.TabIndex = 9;
+            this.BSalir.Text = "Salir";
+            this.BSalir.UseVisualStyleBackColor = true;
+            this.BSalir.Click += new System.EventHandler(this.BSalir_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(484, 261);
+            this.Controls.Add(this.BSalir);
             this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.BEliminar);
             this.Controls.Add(this.BGuardar);
@@ -119,10 +133,12 @@ namespace Formulario1
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.LNombre);
             this.Controls.Add(this.LApellido);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mi Primer Forms";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,6 +153,7 @@ namespace Formulario1
         private System.Windows.Forms.Button BGuardar;
         private System.Windows.Forms.Button BEliminar;
         private System.Windows.Forms.TextBox txtResultado;
+        private System.Windows.Forms.Button BSalir;
     }
 }
 
