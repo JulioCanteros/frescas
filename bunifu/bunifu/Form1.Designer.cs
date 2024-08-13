@@ -39,7 +39,6 @@
             this.btnGuardar = new Guna.UI.WinForms.GunaGradientButton();
             this.lblResultado = new Guna.UI.WinForms.GunaLabel();
             this.btnSalir = new Guna.UI.WinForms.GunaGradientButton();
-            this.gunaCircleButton1 = new Guna.UI.WinForms.GunaCircleButton();
             this.SuspendLayout();
             // 
             // txtDni
@@ -213,36 +212,11 @@
             this.btnSalir.Text = "SALIR";
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
-            // gunaCircleButton1
-            // 
-            this.gunaCircleButton1.AnimationHoverSpeed = 0.07F;
-            this.gunaCircleButton1.AnimationSpeed = 0.03F;
-            this.gunaCircleButton1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            this.gunaCircleButton1.BorderColor = System.Drawing.Color.Black;
-            this.gunaCircleButton1.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaCircleButton1.FocusedColor = System.Drawing.Color.Empty;
-            this.gunaCircleButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.gunaCircleButton1.ForeColor = System.Drawing.Color.White;
-            this.gunaCircleButton1.Image = null;
-            this.gunaCircleButton1.ImageSize = new System.Drawing.Size(52, 52);
-            this.gunaCircleButton1.Location = new System.Drawing.Point(457, 299);
-            this.gunaCircleButton1.Name = "gunaCircleButton1";
-            this.gunaCircleButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
-            this.gunaCircleButton1.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.gunaCircleButton1.OnHoverForeColor = System.Drawing.Color.White;
-            this.gunaCircleButton1.OnHoverImage = null;
-            this.gunaCircleButton1.OnPressedColor = System.Drawing.Color.Black;
-            this.gunaCircleButton1.Size = new System.Drawing.Size(98, 74);
-            this.gunaCircleButton1.TabIndex = 16;
-            this.gunaCircleButton1.Text = "CLICKPUEEEEE";
-            this.gunaCircleButton1.Click += new System.EventHandler(this.gunaCircleButton1_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.gunaCircleButton1);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnGuardar);
@@ -271,7 +245,6 @@
         private Guna.UI.WinForms.GunaGradientButton btnGuardar;
         private Guna.UI.WinForms.GunaLabel lblResultado;
         private Guna.UI.WinForms.GunaGradientButton btnSalir;
-        private Guna.UI.WinForms.GunaCircleButton gunaCircleButton1;
     }
 }
 
