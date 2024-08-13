@@ -11,3 +11,14 @@ C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.csproj.CoreC
 C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.csproj.Up2Date
 C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.exe
 C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.pdb
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\bin\Debug\bunifu.exe.config
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\bin\Debug\bunifu.exe
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\bin\Debug\bunifu.pdb
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.csproj.AssemblyReference.cache
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.Form1.resources
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.Properties.Resources.resources
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.csproj.GenerateResource.cache
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.csproj.CoreCompileInputs.cache
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.csproj.Up2Date
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.exe
+W:\MatiasWD\Coder\GitConJulioTaller2\TP1\bunifu\bunifu\obj\Debug\bunifu.pdb

@@ -34,5 +34,10 @@ namespace bunifu
             txtApellido.Clear();
             lblResultado.Text = "";
         }
+
+        private void gunaCircleButton1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola mundo");
+        }
     }
 }
