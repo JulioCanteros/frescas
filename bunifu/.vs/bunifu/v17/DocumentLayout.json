@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\bunifu\\",
   "Documents": [
     {
@@ -8,6 +9,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA66970B-B0F4-42E2-9676-D2B026D4CFD6}|bunifu\\bunifu.csproj|C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\bunifu\\bunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "W:\\MatiasWD\\Coder\\GitConJulioTaller2\\TP1\\bunifu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA66970B-B0F4-42E2-9676-D2B026D4CFD6}|bunifu\\bunifu.csproj|w:\\matiaswd\\coder\\gitconjuliotaller2\\tp1\\bunifu\\bunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA66970B-B0F4-42E2-9676-D2B026D4CFD6}|bunifu\\bunifu.csproj|solutionrelative:bunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA66970B-B0F4-42E2-9676-D2B026D4CFD6}|bunifu\\bunifu.csproj|W:\\MatiasWD\\Coder\\GitConJulioTaller2\\TP1\\bunifu\\bunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 5eb56ca8c97348f08e89bb8ea2a1bed42cebeded
       "RelativeMoniker": "D:0:0:{EA66970B-B0F4-42E2-9676-D2B026D4CFD6}|bunifu\\bunifu.csproj|solutionrelative:bunifu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +35,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\bunifu\\bunifu\\Form1.cs",
               "RelativeDocumentMoniker": "bunifu\\Form1.cs",
               "ToolTip": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\bunifu\\bunifu\\Form1.cs [Dise\u00F1o]",
+=======
+              "DocumentMoniker": "W:\\MatiasWD\\Coder\\GitConJulioTaller2\\TP1\\bunifu\\bunifu\\Form1.cs",
+              "RelativeDocumentMoniker": "bunifu\\Form1.cs",
+              "ToolTip": "W:\\MatiasWD\\Coder\\GitConJulioTaller2\\TP1\\bunifu\\bunifu\\Form1.cs [Dise\u00F1o]",
+>>>>>>> 5eb56ca8c97348f08e89bb8ea2a1bed42cebeded
               "RelativeToolTip": "bunifu\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T16:55:44.12Z",
@@ -37,11 +54,17 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\bunifu\\bunifu\\Form1.cs",
               "RelativeDocumentMoniker": "bunifu\\Form1.cs",
               "ToolTip": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\bunifu\\bunifu\\Form1.cs",
+=======
+              "DocumentMoniker": "W:\\MatiasWD\\Coder\\GitConJulioTaller2\\TP1\\bunifu\\bunifu\\Form1.cs",
+              "RelativeDocumentMoniker": "bunifu\\Form1.cs",
+              "ToolTip": "W:\\MatiasWD\\Coder\\GitConJulioTaller2\\TP1\\bunifu\\bunifu\\Form1.cs",
+>>>>>>> 5eb56ca8c97348f08e89bb8ea2a1bed42cebeded
               "RelativeToolTip": "bunifu\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAApAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T17:37:33.825Z"
             }
