@@ -11,3 +11,16 @@ C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.csproj.CoreC
 C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.csproj.Up2Date
 C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.exe
 C:\Users\JULIO_GAMER_PC\source\repos\bunifu\bunifu\obj\Debug\bunifu.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\bin\Debug\bunifu.exe.config
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\bin\Debug\bunifu.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\bin\Debug\bunifu.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\bin\Debug\Guna.UI.dll
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.csproj.AssemblyReference.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.Form1.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.Properties.Resources.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.csproj.GenerateResource.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.csproj.CoreCompileInputs.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.csproj.Up2Date
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\bunifu\bunifu\obj\Debug\bunifu.pdb
