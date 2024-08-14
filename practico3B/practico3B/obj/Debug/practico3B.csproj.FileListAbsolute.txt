@@ -18,3 +18,13 @@ D:\practicos_taller\practico3B\practico3B\obj\Debug\practico3B.pdb
 D:\practicos_taller\practico3B\practico3B\bin\Debug\practico3B.exe.config
 D:\practicos_taller\practico3B\practico3B\bin\Debug\practico3B.exe
 D:\practicos_taller\practico3B\practico3B\bin\Debug\practico3B.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\practico3B.exe.config
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\practico3B.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\practico3B.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.csproj.AssemblyReference.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.Form1.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.Properties.Resources.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.csproj.GenerateResource.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.csproj.CoreCompileInputs.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.pdb

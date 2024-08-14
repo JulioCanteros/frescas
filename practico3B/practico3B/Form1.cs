@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,20 +31,49 @@ namespace practico3B
 
         private void rbtnVaron_CheckedChanged(object sender, EventArgs e)
         {
-            if (rbtnVaron.Checked)
+            if (rbtnFemenino.Checked)
             {
-                pictureBox1.Image = Image.FromFile(@"C:\Users\JULIO-NOTEBOOK2\Pictures\iconos\varon.png");
-            }
+                // Ruta relativa a la imagen desde la ubicación del ejecutable
+                string relativePath = @"iconos\varon.png";
+                // Combina la ruta de inicio de la aplicación con la ruta relativa
+                string fullPath = Path.Combine(Application.StartupPath, relativePath);
 
+                // Verifica si el archivo existe antes de asignarlo al PictureBox
+                if (File.Exists(fullPath))
+                {
+                    pictureBox1.Image = Image.FromFile(fullPath);
+                }
+                else
+                {
+                    MessageBox.Show("La imagen no se encuentra.");
+                }
+            }
         }
+
+
 
         private void rbtnFemenino_CheckedChanged(object sender, EventArgs e)
         {
             if (rbtnFemenino.Checked)
             {
-                pictureBox1.Image = Image.FromFile(@"C:\Users\JULIO-NOTEBOOK2\Pictures\iconos\mujer.png");
+                // Ruta relativa a la imagen desde la ubicación del ejecutable
+                string relativePath = @"iconos\mujer.png";
+                // Combina la ruta de inicio de la aplicación con la ruta relativa
+                string fullPath = Path.Combine(Application.StartupPath, relativePath);
+
+                // Verifica si el archivo existe antes de asignarlo al PictureBox
+                if (File.Exists(fullPath))
+                {
+                    pictureBox1.Image = Image.FromFile(fullPath);
+                }
+                else
+                {
+                    MessageBox.Show("La imagen no se encuentra.");
+                }
             }
         }
+
+
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
