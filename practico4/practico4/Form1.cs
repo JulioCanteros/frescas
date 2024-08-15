@@ -19,15 +19,23 @@ namespace practico4
 
         private void btnGenerar_Click(object sender, EventArgs e)
         {
-            int desde = int.Parse(txtDesde.Text);
-            int hasta=int.Parse(txtHasta.Text);
-
-            lista.Items.Clear();
-
-            for(int i = desde; i <= hasta; i++)
+            if (!string.IsNullOrEmpty(txtDesde.Text) && !string.IsNullOrEmpty(txtHasta.Text))
             {
-                lista.Items.Add(i);
+                int desde = int.Parse(txtDesde.Text);
+                int hasta = int.Parse(txtHasta.Text);
+
+                lista.Items.Clear();
+
+                for (int i = desde; i <= hasta; i++)
+                {
+                    lista.Items.Add(i);
+                }
             }
+            else
+            {
+                MessageBox.Show("Debe introducir valores en ambos los campos","Atencion",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+            }
+            
             
             
 
