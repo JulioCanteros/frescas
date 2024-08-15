@@ -1,0 +1,10 @@
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\bin\Debug\practico4.exe.config
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\bin\Debug\practico4.exe
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\bin\Debug\practico4.pdb
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.csproj.AssemblyReference.cache
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.Form1.resources
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.Properties.Resources.resources
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.csproj.GenerateResource.cache
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.csproj.CoreCompileInputs.cache
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.exe
+C:\Users\JULIO_GAMER_PC\source\repos\practico4\practico4\obj\Debug\practico4.pdb

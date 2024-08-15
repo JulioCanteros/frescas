@@ -31,7 +31,7 @@ namespace practico3B
 
         private void rbtnVaron_CheckedChanged(object sender, EventArgs e)
         {
-            if (rbtnFemenino.Checked)
+            if (rbtnVaron.Checked)
             {
                 // Ruta relativa a la imagen desde la ubicación del ejecutable
                 string relativePath = @"iconos\varon.png";
