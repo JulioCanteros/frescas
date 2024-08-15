@@ -72,6 +72,7 @@ namespace practico4
             int desde = int.Parse(txtDesde.Text);
             int hasta = int.Parse(txtHasta.Text);
             int contador = 0;
+
             lista.Items.Clear();
             
             for (int i = desde; i <= hasta; i++)
@@ -85,6 +86,24 @@ namespace practico4
                     lista.Items.Add(i);
                 }
                 contador = 0;
+            }
+        }
+
+        private void txtDesde_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar))
+            {
+                e.Handled = true;
+                
+            }
+        }
+
+        private void txtHasta_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar))
+            {
+                e.Handled = true;
+                
             }
         }
     }

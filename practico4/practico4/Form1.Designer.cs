@@ -72,8 +72,9 @@
             // 
             this.lista.FormattingEnabled = true;
             this.lista.Location = new System.Drawing.Point(411, 72);
+            this.lista.MultiColumn = true;
             this.lista.Name = "lista";
-            this.lista.Size = new System.Drawing.Size(197, 199);
+            this.lista.Size = new System.Drawing.Size(194, 355);
             this.lista.TabIndex = 3;
             // 
             // txtDesde
@@ -82,6 +83,7 @@
             this.txtDesde.Name = "txtDesde";
             this.txtDesde.Size = new System.Drawing.Size(100, 20);
             this.txtDesde.TabIndex = 4;
+            this.txtDesde.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtDesde_KeyPress);
             // 
             // txtHasta
             // 
@@ -89,6 +91,7 @@
             this.txtHasta.Name = "txtHasta";
             this.txtHasta.Size = new System.Drawing.Size(100, 20);
             this.txtHasta.TabIndex = 5;
+            this.txtHasta.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtHasta_KeyPress);
             // 
             // btnPares
             // 
