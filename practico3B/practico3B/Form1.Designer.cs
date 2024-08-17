@@ -50,6 +50,7 @@
             this.rbtnVaron = new System.Windows.Forms.RadioButton();
             this.rbtnFemenino = new System.Windows.Forms.RadioButton();
             this.btnGuardar = new System.Windows.Forms.Button();
+            this.lblCliente = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -112,6 +113,7 @@
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(143, 15);
             this.txtNombre.TabIndex = 10;
+            this.txtNombre.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNombre_KeyPress);
             // 
             // txtApellido
             // 
@@ -120,6 +122,7 @@
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(143, 15);
             this.txtApellido.TabIndex = 9;
+            this.txtApellido.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtApellido_KeyPress);
             // 
             // txtDni
             // 
@@ -286,11 +289,23 @@
             this.btnGuardar.UseVisualStyleBackColor = true;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
+            // lblCliente
+            // 
+            this.lblCliente.AutoSize = true;
+            this.lblCliente.BackColor = System.Drawing.Color.Transparent;
+            this.lblCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCliente.Location = new System.Drawing.Point(231, 19);
+            this.lblCliente.Name = "lblCliente";
+            this.lblCliente.Size = new System.Drawing.Size(219, 29);
+            this.lblCliente.TabIndex = 10;
+            this.lblCliente.Text = "NUEVO CLIENTE";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(641, 586);
+            this.Controls.Add(this.lblCliente);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.rbtnFemenino);
             this.Controls.Add(this.rbtnVaron);
@@ -332,6 +347,7 @@
         private System.Windows.Forms.RadioButton rbtnVaron;
         private System.Windows.Forms.RadioButton rbtnFemenino;
         private System.Windows.Forms.Button btnGuardar;
+        private System.Windows.Forms.Label lblCliente;
     }
 }
 
