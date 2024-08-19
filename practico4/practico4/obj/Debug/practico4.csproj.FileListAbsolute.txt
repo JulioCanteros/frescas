@@ -18,3 +18,13 @@ C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico4\prac
 C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico4\practico4\obj\Debug\practico4.csproj.CoreCompileInputs.cache
 C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico4\practico4\obj\Debug\practico4.exe
 C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico4\practico4\obj\Debug\practico4.pdb
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.csproj.AssemblyReference.cache
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.Form1.resources
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.Properties.Resources.resources
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.csproj.GenerateResource.cache
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.csproj.CoreCompileInputs.cache
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.exe
+D:\practicos_taller\practico4\practico4\obj\Debug\practico4.pdb
+D:\practicos_taller\practico4\practico4\bin\Debug\practico4.exe.config
+D:\practicos_taller\practico4\practico4\bin\Debug\practico4.exe
+D:\practicos_taller\practico4\practico4\bin\Debug\practico4.pdb

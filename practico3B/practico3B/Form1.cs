@@ -82,7 +82,7 @@ namespace practico3B
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            
+
             if (CamposObligatoriosIncompletos())
             {
                 MessageBox.Show("Debe llenar todos los campos, seleccionar sexo y al menos una tarjeta",
@@ -106,7 +106,7 @@ namespace practico3B
 
         private bool CamposObligatoriosIncompletos()
         {
-            return string.IsNullOrWhiteSpace(txtDni.Text) || string.IsNullOrWhiteSpace(txtApellido.Text) ||string.IsNullOrWhiteSpace(txtNombre.Text) ||
+            return string.IsNullOrWhiteSpace(txtDni.Text) || string.IsNullOrWhiteSpace(txtApellido.Text) || string.IsNullOrWhiteSpace(txtNombre.Text) ||
                    (!rbtnFemenino.Checked && !rbtnVaron.Checked) || (!chkMastercard.Checked && !chkNaranja.Checked && !chkVisa.Checked);
         }
 
@@ -147,10 +147,10 @@ namespace practico3B
             }
             else
             {
-                MessageBox.Show("No hay datos que eliminar","Atencion",MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("No hay datos que eliminar", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            
-            
+
+
         }
 
         private void txtTelefono_KeyPress(object sender, KeyPressEventArgs e)
@@ -159,6 +159,24 @@ namespace practico3B
             {
                 e.Handled = true;
                 MessageBox.Show("Ingrese solamente numeros para el Telefono", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+        }
+
+        private void txtApellido_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetter(e.KeyChar) && !char.IsControl(e.KeyChar) && e.KeyChar!=' ')
+            {
+                e.Handled = true;
+                MessageBox.Show("Ingrese solamente letras ", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+        }
+
+        private void txtNombre_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsLetter(e.KeyChar) && !char.IsControl(e.KeyChar) && e.KeyChar!=' ')
+            {
+                e.Handled = true;
+                MessageBox.Show("Ingrese solamente letras ", "Atencion", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
     }
