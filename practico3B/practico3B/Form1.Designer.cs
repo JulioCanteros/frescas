@@ -57,7 +57,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.Control;
+            this.panel1.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.panel1.Controls.Add(this.lblModificar);
             this.panel1.Controls.Add(this.lblNyA);
             this.panel1.Controls.Add(this.txtTelefono);
@@ -313,7 +313,6 @@
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.panel1);
-            this.IsMdiContainer = true;
             this.Name = "Form1";
             this.Text = "Pequeño formulario";
             this.panel1.ResumeLayout(false);

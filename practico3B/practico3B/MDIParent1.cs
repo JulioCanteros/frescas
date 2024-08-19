@@ -17,14 +17,22 @@ namespace practico3B
         public MDIParent1()
         {
             InitializeComponent();
+            this.IsMdiContainer = true;
         }
 
         private void ShowNewForm(object sender, EventArgs e)
         {
-            Form childForm = new Form();
-            childForm.MdiParent = this;
-            childForm.Text = "Ventana " + childFormNumber++;
-            childForm.Show();
+            // Crear una instancia del formulario "Form1"
+            Form1 form1 = new Form1();
+
+            // Establecer que MDIParent1 sea el contenedor padre del formulario hijo
+            form1.MdiParent = this;
+
+            // Hacer que el formulario hijo se ajuste al tamaño del contenedor MDI
+            //form1.Dock = DockStyle.Fill;
+
+            // Mostrar el formulario dentro del contenedor MDI
+            form1.Show();
         }
 
         private void OpenFile(object sender, EventArgs e)

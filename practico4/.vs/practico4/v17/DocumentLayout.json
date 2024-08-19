@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\practico4\\",
+  "WorkspaceRootPath": "D:\\practicos_taller\\practico4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2603F26-E142-427E-93EF-B20F49CAFF87}|practico4\\practico4.csproj|C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\practico4\\practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2603F26-E142-427E-93EF-B20F49CAFF87}|practico4\\practico4.csproj|D:\\practicos_taller\\practico4\\practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2603F26-E142-427E-93EF-B20F49CAFF87}|practico4\\practico4.csproj|solutionrelative:practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2603F26-E142-427E-93EF-B20F49CAFF87}|practico4\\practico4.csproj|c:\\users\\julio_gamer_pc\\desktop\\repositorio_temporal practica git\\practico4\\practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D2603F26-E142-427E-93EF-B20F49CAFF87}|practico4\\practico4.csproj|d:\\practicos_taller\\practico4\\practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D2603F26-E142-427E-93EF-B20F49CAFF87}|practico4\\practico4.csproj|solutionrelative:practico4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\practico4\\practico4\\Form1.cs",
+              "DocumentMoniker": "D:\\practicos_taller\\practico4\\practico4\\Form1.cs",
               "RelativeDocumentMoniker": "practico4\\Form1.cs",
-              "ToolTip": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\practico4\\practico4\\Form1.cs",
+              "ToolTip": "D:\\practicos_taller\\practico4\\practico4\\Form1.cs",
               "RelativeToolTip": "practico4\\Form1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCMAAABBAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAcwK0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T23:14:17.628Z",
               "EditorCaption": ""
@@ -37,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\practico4\\practico4\\Form1.cs",
+              "DocumentMoniker": "D:\\practicos_taller\\practico4\\practico4\\Form1.cs",
               "RelativeDocumentMoniker": "practico4\\Form1.cs",
-              "ToolTip": "C:\\Users\\JULIO_GAMER_PC\\Desktop\\repositorio_temporal practica git\\practico4\\practico4\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\practicos_taller\\practico4\\practico4\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "practico4\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T22:35:45.629Z",
