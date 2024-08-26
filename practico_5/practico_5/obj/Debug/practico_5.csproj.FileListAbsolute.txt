@@ -1,0 +1,10 @@
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\bin\Debug\practico_5.exe.config
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\bin\Debug\practico_5.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\bin\Debug\practico_5.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.csproj.AssemblyReference.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.Form1.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.Properties.Resources.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.csproj.GenerateResource.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.csproj.CoreCompileInputs.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico_5\practico_5\obj\Debug\practico_5.pdb

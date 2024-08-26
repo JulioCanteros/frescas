@@ -37,3 +37,12 @@ C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\pra
 C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.exe
 C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.pdb
 >>>>>>> e0392e36b219808b2d23ebee5a4ae1ba0b485d9f
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\practico3.exe.config
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\practico3.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\practico3.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\bin\Debug\Guna.UI.dll
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.MDIParent1.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3.Properties.Resources.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3B.csproj.Up2Date
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico3B\obj\Debug\practico3.pdb

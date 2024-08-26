@@ -1,0 +1,10 @@
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\bin\Debug\practico2.exe.config
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\bin\Debug\practico2.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\bin\Debug\practico2.pdb
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.csproj.AssemblyReference.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.Form1.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.Properties.Resources.resources
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.csproj.GenerateResource.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.csproj.CoreCompileInputs.cache
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.exe
+C:\Users\JULIO_GAMER_PC\Desktop\repositorio_temporal practica git\practico3B\practico2\practico2\obj\Debug\practico2.pdb
